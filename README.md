@@ -45,6 +45,10 @@ To resize the picture:
 
 <img width="300px" src="https://github.com/milad379/first-project/assets/147005227/b4a7ccd3-9568-44fe-9264-99b723280943" />
 
+You can also reference a picture if you have uploaded the picture in the github. We created a file and within the file we created .keep, to keep file and allow us to create a folder.
+
+![nature pic](assets/nature.jpg)
+
 ```bash
 #!/bin/bash
 
